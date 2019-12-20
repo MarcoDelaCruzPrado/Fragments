@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "147246641218",
+    "firebase_url": "https://kotlinfirebase-165ed.firebaseio.com",
+    "project_id": "kotlinfirebase-165ed",
+    "storage_bucket": "kotlinfirebase-165ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147246641218:android:1b33180d5c4a7c5fd93ddb",
+        "android_client_info": {
+          "package_name": "com.silver.homework3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147246641218-qb6o3utmco5lo9rms1g4190jfp1pjt7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCERoeMwT6VBEC-sMVPlUHQ8wp5AvgXCh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147246641218-qb6o3utmco5lo9rms1g4190jfp1pjt7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
