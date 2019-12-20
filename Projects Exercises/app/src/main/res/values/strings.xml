@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LessonOneExercises</string>
+    <string name="btn_exercise_one">Exercise One</string>
+    <string name="btn_exercise_two">Exercise two</string>
+    <string name="btn_exercise_three">Exercise three</string>
+    <string name="btn_exercise_four">Exercise four</string>
+    <string name="btn_exercise_five">Exercise five</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_name">Nombre Producto</string>
+    <string name="tv_price">precio</string>
+    <string name="tv_description">Descripcion del producto</string>
+    <string name="iv_description_producto">Imagen del producto</string>
+    <string name="iv_description_contact">Imagen del contact</string>
+    <string name="tv_name_contact">Nombre Contacto</string>
+    <string name="tv_phone">Telefono</string>
+    <string name="tv_title_phone">Phone</string>
+    <string name="tv_title_email">Correo</string>
+    <string name="tv_email">Correo</string>
+    <string name="tv_title_website">WebSite</string>
+    <string name="tv_website">WebSite</string>
+</resources>
